@@ -6,7 +6,7 @@
 
 - 📖 I study Robotics at ITESM
 
-- 🌱 I’m currently learning **ROS2**
+- 🌱 I’m currently learning **Visual Basic.Net**
 
 - 📫 Email me to **joseldominguezmorales@gmail.com**
 <!-- 
