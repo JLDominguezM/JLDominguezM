@@ -13,12 +13,12 @@
 - 📄 Know about my experiences ([resume](link de resume en github))
  -->
 
-<!-- <h2 align="left">Connect with me 🤝</h2>
+<h2 align="left">Connect with me 🤝</h2>
 <p align="left">
-<a href="link Linkedin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adanfr" height="30" width="40" /></a>
-<a href="link Instagram" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="afr.2903" height="30" width="40" /></a>
-<a href="link de Discord" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="discordapp.com/users/476898916802232323" height="30" width="40" /></a>
-</p> -->
+<a href="https://www.linkedin.com/in/jos%C3%A9-luis-dom%C3%ADnguez-morales/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adanfr" height="30" width="40" /></a>
+<a href="https://www.instagram.com/joseldmzz/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="afr.2903" height="30" width="40" /></a>
+<a href="https://discordapp.com/users/571918945574191114" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="discordapp.com/users/571918945574191114" height="30" width="40" /></a>
+</p>
 
 <h2>Skills 🎖️</h2>
 
