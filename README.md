@@ -30,7 +30,7 @@
 
 
 <!-- GitHub profile Stats -->
-
+<!--
 <h2>GitHub Stats 📊</h2>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=afr2903&theme=dracula&rank=-D,-C,-?&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
@@ -52,4 +52,4 @@
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=JLDominguezM">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=afr2903&theme=onedark" alt="JLDominguezM" />
 </picture>
- 
+ -->
