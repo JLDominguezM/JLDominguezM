@@ -30,26 +30,26 @@
 
 
 <!-- GitHub profile Stats -->
-<!-- 
+
 <h2>GitHub Stats 📊</h2>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=afr2903&theme=dracula&rank=-D,-C,-?&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=afr2903&show_icons=true&locale=en&layout=compact&theme=onedark">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=afr2903&show_icons=true&locale=en&layout=compact">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=afr2903&show_icons=true&locale=en&layout=compact&theme=onedark" alt="afr2903" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=JLDominguezM&show_icons=true&locale=en&layout=compact&theme=onedark">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=JLDominguezM&show_icons=true&locale=en&layout=compact">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=JLDominguezM&show_icons=true&locale=en&layout=compact&theme=onedark" alt="JLDominguezM" />
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=afr2903&show_icons=true&locale=en&theme=onedark">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=afr2903&show_icons=true&locale=en">
-  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=afr2903&show_icons=true&locale=en&theme=onedark" alt="afr2903" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=JLDominguezM&show_icons=true&locale=en&theme=onedark">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=JLDominguezM&show_icons=true&locale=en">
+  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=JLDominguezM&show_icons=true&locale=en&theme=onedark" alt="JLDominguezM" />
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=afr2903&theme=onedark">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=afr2903">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=afr2903&theme=onedark" alt="afr2903" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=JLDominguezM&theme=onedark">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=JLDominguezM">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=afr2903&theme=onedark" alt="JLDominguezM" />
 </picture>
- -->
+ 
