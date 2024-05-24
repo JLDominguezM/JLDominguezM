@@ -23,10 +23,10 @@
 <h2>Skills 🎖️</h2>
 
 #### Languages
-[![Languages](https://skillicons.dev/icons?i=cpp,py,java,js,cs,c,matlab,sql)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=cpp,py,java,js,cs,c,matlab,sql,mysql)](https://skillicons.dev)
 
 #### Tools
-[![Tools](https://skillicons.dev/icons?i=git,arduino,html,vscode,visualstudio,css)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=git,arduino,html,vscode,visualstudio,css,react-native)](https://skillicons.dev)
 
 
 <!-- GitHub profile Stats -->
