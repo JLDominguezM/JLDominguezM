@@ -26,4 +26,4 @@
 [![Languages](https://skillicons.dev/icons?i=cpp,py,java,js,cs,c,matlab,mysql,php)](https://skillicons.dev)
 
 #### Tools
-[![Tools](https://skillicons.dev/icons?i=git,arduino,html,vscode,visualstudio,css,react)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=git,arduino,html,vscode,visualstudio,css,react,angular)](https://skillicons.dev)
