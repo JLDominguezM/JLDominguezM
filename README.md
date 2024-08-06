@@ -2,7 +2,7 @@
 <h3 align="center">A passionate learner in Robotics & Software from Mexico</h3>
 
 
-- 🧑‍💻 I'm a programmer at [**RoBorregos**](https://github.com/RoBorregos/)
+- 🧑‍💻 I'm a  Software Developer at [**RoBorregos**](https://github.com/RoBorregos/) and  [**Distrito Tec**](https://futurociudades.tec.mx/es)
 
 - 📖 I study Robotics at ITESM
 
