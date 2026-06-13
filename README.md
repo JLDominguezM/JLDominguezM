@@ -39,15 +39,11 @@
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=JLDominguezM&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" alt="stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JLDominguezM&layout=compact&theme=tokyonight&hide_border=true" alt="top languages" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JLDominguezM&layout=compact&theme=tokyonight&hide_border=true&hide=html,css&langs_count=8&exclude_repo=dreamteam-T3001B,semana-4" alt="top languages" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=JLDominguezM&theme=tokyonight&hide_border=true" alt="streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=JLDominguezM&theme=tokyonight&no-frame=true&column=7&margin-w=10" alt="trophies" />
 </p>
 
 ---
