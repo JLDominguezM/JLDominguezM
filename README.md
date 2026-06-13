@@ -35,32 +35,6 @@
 
 ---
 
-### 📌 Featured Projects
-
-<p align="center">
-  <a href="https://github.com/JLDominguezM/tello-drone-labs">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JLDominguezM&repo=tello-drone-labs&theme=tokyonight" alt="tello-drone-labs" />
-  </a>
-  <a href="https://github.com/JLDominguezM/MCUNetESP">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JLDominguezM&repo=MCUNetESP&theme=tokyonight" alt="MCUNetESP" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/JLDominguezM/photosort">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JLDominguezM&repo=photosort&theme=tokyonight" alt="photosort" />
-  </a>
-  <a href="https://github.com/JLDominguezM/Inspector-Autonomo-UAVs">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JLDominguezM&repo=Inspector-Autonomo-UAVs&theme=tokyonight" alt="Inspector-Autonomo-UAVs" />
-  </a>
-</p>
-
-- **tello-drone-labs:** Autonomous IBVS mission on a DJI Tello over raw UDP sockets
-- **MCUNetESP:** MCUNet / TinyML deployed on a XIAO ESP32-S3, benchmarked vs MobileNetV2
-- **photosort:** Local AI photo classifier (CLIP + face recognition) running 100% on GPU
-- **Inspector-Autonomo-UAVs:** Dynamic visual servoing for UAV inspection
-
----
-
 ### 📊 GitHub Stats
 
 <p align="center">
