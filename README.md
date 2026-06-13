@@ -15,7 +15,7 @@
 ### 🚀 About Me
 
 - 🤖 Robotics Engineering student at **Tecnológico de Monterrey (ITESM)**
-- 🦾 Software & **Manipulation** developer at [**RoBorregos**](https://github.com/RoBorregos/) — our **RoboCup @Home** team
+- 🦾 Software & **Manipulation** developer at [**RoBorregos**](https://github.com/RoBorregos/), our **RoboCup @Home** team
 - 🏙️ Contributor at [**Distrito Tec / Futuro Ciudades**](https://futurociudades.tec.mx/es)
 - 🔭 Working on **ROS2**, robot **perception & manipulation**, computer vision and **embedded AI (TinyML)**
 - 🌱 Currently going deeper into **motion planning, grasping and on-device deep learning**
@@ -54,7 +54,10 @@
   </a>
 </p>
 
-> **tello-drone-labs** — Autonomous IBVS mission on a DJI Tello over raw UDP sockets &nbsp;·&nbsp; **MCUNetESP** — MCUNet / TinyML deployed on a XIAO ESP32-S3, benchmarked vs MobileNetV2 &nbsp;·&nbsp; **photosort** — Local AI photo classifier (CLIP + face recognition) running 100% on GPU &nbsp;·&nbsp; **Inspector-Autonomo-UAVs** — Dynamic visual servoing for UAV inspection
+- **tello-drone-labs:** Autonomous IBVS mission on a DJI Tello over raw UDP sockets
+- **MCUNetESP:** MCUNet / TinyML deployed on a XIAO ESP32-S3, benchmarked vs MobileNetV2
+- **photosort:** Local AI photo classifier (CLIP + face recognition) running 100% on GPU
+- **Inspector-Autonomo-UAVs:** Dynamic visual servoing for UAV inspection
 
 ---
 
